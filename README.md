@@ -19,4 +19,16 @@ Rpository for practicing git pull, push, making first pull request and working w
 ---
  Add your blocks here ⬇⬇⬇
 ---
-
+## Mostafa Abdallah 192100058
+* **Quote:** _No Game No Life_
+* :link:**Linkedin:** [Linkedin](https://www.linkedin.com/in/mostafa-abdallah-11852618a/).
+* **Additions:**
+   - **Portfolio:** Check out my work and projects on [GitHub](https://github.com/Mostafa23).  
+   - **Hobbies:** Gaming, coding, and exploring new technologies.  
+   - **Favorite Tech Stack:**  
+      - **Frontend:** Html, CSS and Bootstrap.
+      - **Backend:** Node.js and Express.js.
+      - **Database:** MongoDB.
+   - **Skills:** Problem-solving, collaboration, and a passion for learning.  
+   - **Fun Fact:** I love merging creativity with functionality in both games and code.
+---
