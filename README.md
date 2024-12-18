@@ -19,4 +19,11 @@ Rpository for practicing git pull, push, making first pull request and working w
 ---
  Add your blocks here ⬇⬇⬇
 ---
-
+## Sherif Diaa Elsayed Hanafy 
+* **Quote:** _"Every failure is a lesson, and every success comes from trying again"_
+* :link:**LinkedIn:** [_Sherif Hanafy_](https://www.linkedin.com/in/sherif-hanafy-41866a342)  
+* **Additions:** 
+   - I have a strong interest in networks and data analysis.  
+   - I enjoy coding and working on projects in Network Packet Tracer, exploring different networking concepts.  
+   - Currently, I am focusing on improving my skills in back-end development and continuously working to grow in this area.  
+---
