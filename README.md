@@ -20,6 +20,6 @@ Rpository for practicing git pull, push, making first pull request and working w
  Add your blocks here ⬇⬇⬇
 ---
 
-## Kirolos Mourice
+## Kirolos Mourice William
 * **Quote:** _Never trust anyone._
 * :link:**Linkedin:** _[www.linkedin.com/in/kerolos-mourice-456a50263](https://www.linkedin.com/in/kerolos-mourice-456a50263)_
