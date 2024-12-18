@@ -17,6 +17,8 @@ Rpository for practicing git pull, push, making first pull request and working w
 * **Additions:** _Feel free to add here any additions you want to practice your markdown and share insights with your friends_
    > _Make sure to start and end your block with seperating lines_
 ---
+ Add your blocks here ⬇⬇⬇
+---
 ## Mostafa Abdallah 192100058
 * **Quote:** _No Game No Life_
 * :link:**Linkedin:** [Linkedin](https://www.linkedin.com/in/mostafa-abdallah-11852618a/).
@@ -30,6 +32,3 @@ Rpository for practicing git pull, push, making first pull request and working w
    - **Skills:** Problem-solving, collaboration, and a passion for learning.  
    - **Fun Fact:** I love merging creativity with functionality in both games and code.
 ---
- Add your blocks here ⬇⬇⬇
----
-
