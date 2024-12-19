@@ -21,7 +21,7 @@ Rpository for practicing git pull, push, making first pull request and working w
 ---
 
 
-Name: Rahma Ali Bauomi 
-ID: 192100170
-Quote: "كلنا فى يد الله.. وكل شيء فى يَد اللًه آمن "
-Link: [Linkedin](www.linkedin.com/in/rahma-ali-981827272)
+## Rahma Ali Bauomi 
+* **ID:** 192100170.
+* **Quote:** "كلنا فى يد الله.. وكل شيء فى يَد اللًه آمن ".
+* **Linkedin Link:** [RahmaAli](www.linkedin.com/in/rahma-ali-981827272).
