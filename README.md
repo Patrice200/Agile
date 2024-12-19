@@ -18,5 +18,9 @@ Rpository for practicing git pull, push, making first pull request and working w
    > _Make sure to start and end your block with seperating lines_
 ---
  Add your blocks here ⬇⬇⬇
+Patrice Yasser
+"If you good at something...dont do it for free"
+[www.linkedin.com/in/patrice-salib-8976a52a1]
+chilling at home
 ---
 
